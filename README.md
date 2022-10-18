@@ -19,3 +19,10 @@ To override this, you need to specify a mirror as shown in Using Mirrors for Rep
 You can set this in your settings.xml file to globally use a certain mirror. However, it is common for a project to customise the repository in its pom.xml and that your setting will take precedence. If dependencies are not being found, check that you have not overridden the remote repository.
 
 For more information on dependencies, see Dependency Mechanism.
+
+How to Get Support
+Support for Maven is available in a variety of different forms.
+
+To get started, search the documentation, issue management system, the wiki or the mailing list archives to see if the problem has been solved or reported before.
+
+If the problem has not been reported before, the recommended way to get help is to subscribe to the Maven Users Mailing list. Many other users and Maven developers will answer your questions there, and the answer will be archived for others in the future.
